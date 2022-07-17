@@ -1,8 +1,8 @@
-# servo-and-BlDc-Motors
+# Motors
 ## Servo motor🏎:
-this is my project using a potentiometer 👍
+This is my project using a potentiometer 👍
 
-https://www.tinkercad.com/things/j2lwamuBw1i
+[Tinkercad](https://www.tinkercad.com/things/j2lwamuBw1i?sharecode=UGt-QUnhxSkw6UzsMDcF8gNFLudfs-ReCz6AUfRZUpQ)
 
 Please check this:
 
@@ -12,3 +12,5 @@ Please check this:
 
 * [Servo Motors with Arduino DroneBot](https://youtu.be/kUHmYKWwuWs)
 * [Arduino Website](https://docs.arduino.cc/learn/electronics/servo-motors)
+***
+## Stepper moter ⚙:
